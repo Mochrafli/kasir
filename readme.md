@@ -23,7 +23,7 @@ Password : 123
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/login.png">
 
 - Dashboard 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/1.png">
+<img src="kasir\assets\img\pic\Dashboard.png">
 
 - Tabel Barang
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/2.png">
