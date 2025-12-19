@@ -19,26 +19,32 @@ Password : 123
 <span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
 
 ## Contoh Program 
-- Login
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/login.png">
+## 📸 Tampilan Aplikasi Kasir
 
-- Dashboard 
-<img src="kasir\assets\img\pic\Dashboard.png">
+### 🔐 Login
+<img src="assets/img/pic/Login.png">
 
-- Tabel Barang
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/2.png">
+### 📊 Dashboard
+<img src="assets/img/pic/Dashboard.png">
 
-- Keranjang / Transaksi
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/4.png">
+### 📦 Data Barang
+<img src="assets/img/pic/Data barang.png">
 
-- Laporan 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/5.png">
+### 🗂️ Data Kategori
+<img src="assets/img/pic/Data katagori.png">
 
-- Nama Toko 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/6.png">
+### 🛒 Keranjang / Transaksi
+<img src="assets/img/pic/keranjang penjualan.png">
 
-- Atur User 
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/pic/7.png">
+### 📑 Laporan Penjualan
+<img src="assets/img/pic/laporan penjualan.png">
+
+### 🏪 Pengaturan Toko
+<img src="assets/img/pic/pengaturan toko.png">
+
+### 👤 Profil Pengguna
+<img src="assets/img/pic/Profil pengguna.png">
+
 
 ## Changelog
 31 Januari 2021<br>
